@@ -146,6 +146,9 @@ tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
 tags = common
+[certificate_check_validity_selection_country_flags]
+de = "IT","LT","DK","GR","CZ","HR","IS","PT","PL","BE","BG","DE","LU","EE","CY","ES","NL","AT","LV","LI","FI","SE","SI","RO","NO","SK","FR","MT","HU","IE","CH"
+tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
 tags = common
